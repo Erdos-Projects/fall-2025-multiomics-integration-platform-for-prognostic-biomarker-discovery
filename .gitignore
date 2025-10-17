@@ -1,2 +1,8 @@
 data_exploration/displayStuff.ipynb
 data_exploration/GeneExpressionAnalysis.ipynb
+data_exploration/matched_features.csv
+data_exploration/heatmap_top_concordant_RPPA.png
+data_exploration/heatmap_top_concordant_RNA.png
+data_exploration/heatmap_bottom_discordant_RPPA.png
+data_exploration/heatmap_bottom_discordant_RNA.png
+data_exploration/.ipynb_checkpoints
