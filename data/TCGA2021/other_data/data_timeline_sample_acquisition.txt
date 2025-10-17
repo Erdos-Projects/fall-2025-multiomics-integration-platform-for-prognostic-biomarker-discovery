@@ -1,0 +1,19 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	SAMPLE_ID	METHOD_OF_SAMPLE_PROCUREMENT	COUNTRY	SAMPLE_PRESCREENED	SUBMITTED_FOR_LCE	TOP_SLIDE_SUBMITTED	TUMOR_NECROSIS_PERCENT	TUMOR_NUCLEI_PERCENT	TUMOR_WEIGHT	VESSEL_USED
+TCGA-06-1806	0		Sample Acquisition	TCGA-06-1806-01	Subtotal Resection	United States	Yes	No	Yes	0	100	300	Cryovial
+TCGA-06-A5U0	0		Sample Acquisition	TCGA-06-A5U0-01	Subtotal Resection	United States	Yes	No	Yes	0	100	500	Cryovial
+TCGA-06-A5U1	0		Sample Acquisition	TCGA-06-A5U1-01	Subtotal Resection	United States	Yes	No	Yes	0	100	400	Cryovial
+TCGA-06-A6S0	0		Sample Acquisition	TCGA-06-A6S0-01	Subtotal Resection	United States	Yes	No	Yes	10	90	200	Cryovial
+TCGA-06-A6S1	0		Sample Acquisition	TCGA-06-A6S1-01	Subtotal Resection	United States	Yes	No	Yes	0	100	300	Cryovial
+TCGA-06-A7TK	0		Sample Acquisition	TCGA-06-A7TK-01	Subtotal Resection	United States	Yes	No	Yes	10	100	400	Cryovial
+TCGA-06-A7TL	0		Sample Acquisition	TCGA-06-A7TL-01	Subtotal Resection	United States	Yes	No	Yes	0	100	400	Cryovial
+TCGA-4W-AA9R	0		Sample Acquisition	TCGA-4W-AA9R-01	Gross Total Resection	United States	Yes	No	Yes	0	90	200	Cassette
+TCGA-4W-AA9S	0		Sample Acquisition	TCGA-4W-AA9S-01	Gross Total Resection	United States	Yes	No	Yes	0	90	200	Cassette
+TCGA-4W-AA9T	0		Sample Acquisition	TCGA-4W-AA9T-01	Gross Total Resection	United States	Yes	No	Yes	0	90	200	Cassette
+TCGA-19-A6J4	0		Sample Acquisition	TCGA-19-A6J4-01	Gross Total Resection	United States	Yes	No	Yes	10	90	341	Cryovial
+TCGA-19-A6J5	0		Sample Acquisition	TCGA-19-A6J5-01	Gross Total Resection	United States	Yes	No	Yes	10	90	180	Cryomold
+TCGA-19-A60I	0		Sample Acquisition	TCGA-19-A60I-01	Gross Total Resection	United States	Yes	No	Yes	15	90	150	Cryovial
+TCGA-26-A7UX	0		Sample Acquisition	TCGA-26-A7UX-01	Gross Total Resection	United States	Yes	No	Yes	0	80	55	Cryovial
+TCGA-OX-A56R	0		Sample Acquisition	TCGA-OX-A56R-01	Subtotal Resection	United States	Yes	No	No	10	90	331	Cryovial
+TCGA-RR-A6KA	0		Sample Acquisition	TCGA-RR-A6KA-01	Gross Total Resection	United States	Yes	No	Yes	0	60	100	Cryovial
+TCGA-RR-A6KB	0		Sample Acquisition	TCGA-RR-A6KB-01	Gross Total Resection	United States	Yes	No	Yes	0	75	300	Cryovial
+TCGA-RR-A6KC	0		Sample Acquisition	TCGA-RR-A6KC-01	Gross Total Resection	United States	Yes	No	Yes	5	80	300	Cryovial
