@@ -6,3 +6,4 @@ data_exploration/heatmap_top_concordant_RNA.png
 data_exploration/heatmap_bottom_discordant_RPPA.png
 data_exploration/heatmap_bottom_discordant_RNA.png
 data_exploration/.ipynb_checkpoints
+batch_effect.ipynb
