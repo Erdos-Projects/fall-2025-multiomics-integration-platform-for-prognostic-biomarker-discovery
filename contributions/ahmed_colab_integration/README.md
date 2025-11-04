@@ -61,8 +61,12 @@ This project implements a modular, transparent pipeline for such integration, en
 
 ## Data
 
-The repository contains the real datasets used in this analysis.
-Ensure that all files are properly documented and versioned. 
+The repository contains the datasets used in this analysis.
+Data from The Cancer Genome Atlas as part of the PanCancer Atlas initiative. There are multiple publications associated with this data and it appears it was last published in 2021. Source: https://datacatalog.mskcc.org/dataset/10414
+
+The RNA-seq data from the NCBI GEO (Gene Expression Omnibus). The files are NCBI-generated data. Source: https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119834
+
+Here is the publication associated with these data: https://doi.org/10.1084/jem.20190196
 
 ---
 
