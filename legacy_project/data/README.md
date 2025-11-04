@@ -1,0 +1,1 @@
+Data files are separated into subfolders based on source. Data files retain their original name.

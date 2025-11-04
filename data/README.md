@@ -1,1 +1,1 @@
-Data files are separated into subfolders based on source. Data files retain their original name.
+Place ONLY small sample data here. Link or use LFS for large datasets.
