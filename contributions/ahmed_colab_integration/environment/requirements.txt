@@ -1,0 +1,10 @@
+google
+gseapy
+matplotlib
+networkx
+numpy
+pandas
+scipy
+seaborn
+sklearn
+sklearn
